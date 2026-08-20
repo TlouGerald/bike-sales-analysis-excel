@@ -29,6 +29,11 @@ purchasing patterns and generate  meaningful business insights.
 The project includes an interactive Excel dashboard that allows
 users to explore the data using filters and visualization
 
+## Dashboard Preview
+
+![BIKE SALES DASHBORD]
+(bike-sales-dashboard.PNG)
+
 ## 💡 Key Skills Demonstrated
 
 - Data cleaning
