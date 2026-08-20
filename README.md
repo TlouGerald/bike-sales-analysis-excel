@@ -32,7 +32,7 @@ users to explore the data using filters and visualization
 ## Dashboard Preview
 
 ![BIKE SALES DASHBORD]
-(bike-sales-dashboard.PNG)
+(bike-sales-dashboard.png)
 
 ## 💡 Key Skills Demonstrated
 
