@@ -7,8 +7,7 @@ purchasing patterns and generate  meaningful business insights.
 
 ## Dashboard Preview
 
-![BIKE SALES DASHBORD]
-
+![Bike Sales Dashboard]
 (bike-sales-dashboard.png)
 
 
