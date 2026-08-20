@@ -5,6 +5,13 @@
 This project analysis bike sales data using Microsoft Excel to identify customer 
 purchasing patterns and generate  meaningful business insights.
 
+## Dashboard Preview
+
+![BIKE SALES DASHBORD]
+
+(bike-sales-dashboard.png)
+
+
 ## 🔨 Tools Used
 
 - Microsoft Excel
@@ -28,11 +35,6 @@ purchasing patterns and generate  meaningful business insights.
 
 The project includes an interactive Excel dashboard that allows
 users to explore the data using filters and visualization
-
-## Dashboard Preview
-
-![BIKE SALES DASHBORD]
-(bike-sales-dashboard.png)
 
 ## 💡 Key Skills Demonstrated
 
